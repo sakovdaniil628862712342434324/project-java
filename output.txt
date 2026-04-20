@@ -1,0 +1,70 @@
+
+--- Employee Management System ---
+1. Add Full-Time Employee
+2. View All Employees
+3. Update Employee Salary
+4. Delete Employee
+5. Exit
+Choose an option: 1
+Enter Name: 
+Validation Error: Name cannot be empty.
+
+--- Employee Management System ---
+1. Add Full-Time Employee
+2. View All Employees
+3. Update Employee Salary
+4. Delete Employee
+5. Exit
+Choose an option: 1
+Enter Name: John Doe
+Enter Department: IT
+Enter Annual Salary: 60000
+Employee added successfully!
+
+--- Employee Management System ---
+1. Add Full-Time Employee
+2. View All Employees
+3. Update Employee Salary
+4. Delete Employee
+5. Exit
+Choose an option: 2
+ID: 1, Name: John Doe, Dept: IT, Type: Full-Time, Salary: $5000.0
+
+--- Employee Management System ---
+1. Add Full-Time Employee
+2. View All Employees
+3. Update Employee Salary
+4. Delete Employee
+5. Exit
+Choose an option: 3
+Enter Employee ID to update: 1
+Enter new monthly salary: 5500
+Salary updated successfully.
+
+--- Employee Management System ---
+1. Add Full-Time Employee
+2. View All Employees
+3. Update Employee Salary
+4. Delete Employee
+5. Exit
+Choose an option: 2
+ID: 1, Name: John Doe, Dept: IT, Type: Full-Time, Salary: $5500.0
+
+--- Employee Management System ---
+1. Add Full-Time Employee
+2. View All Employees
+3. Update Employee Salary
+4. Delete Employee
+5. Exit
+Choose an option: 4
+Enter Employee ID to delete: 1
+Employee deleted successfully.
+
+--- Employee Management System ---
+1. Add Full-Time Employee
+2. View All Employees
+3. Update Employee Salary
+4. Delete Employee
+5. Exit
+Choose an option: 5
+Exiting System. Goodbye!
